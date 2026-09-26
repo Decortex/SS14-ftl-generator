@@ -46,6 +46,9 @@ FORCE_LOCALIZE_FIELDS = {
     "title",
     "defaultKeyPhrase",
     "briefingText",
+    "code",
+    "emptyLabel",
+    "subtype",
 }
 
 
